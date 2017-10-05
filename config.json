@@ -1,0 +1,8 @@
+{
+    "server":["sudo.im"],
+    "remote_port":8080,
+    "local_port":1080,
+    "password":"ncths",
+    "timeout":300,
+    "method":"rc4"
+}
